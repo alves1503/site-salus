@@ -1,29 +1,48 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+<h1 align="left">👋 Olá, tudo bem?</h1>
 
-###
+---
 
-<p align="left">Esse site foi desenvolvido para um prototipo de um projeto feito na unidade do Senai de Divinópolis-MG, seu principal objetivo é de ser um WebSite Corporativo e ainda não está responsivel para telas menores.</p>
+<p align="left">Este site foi desenvolvido como um protótipo de um projeto realizado na unidade do **Senai de Divinópolis-MG**. Seu principal objetivo é servir como um **WebSite Corporativo**. Atualmente, a versão ainda **não está responsiva** para telas menores, mas futuras melhorias estão planejadas. 🚀</p>
 
-###
+---
 
-<h2 align="left">Sobre o site:</h2>
+<h2 align="left">📌 Sobre o site:</h2>
 
-###
+<ul align="left">
+  <li>🏠 <b>Home</b> (Página Inicial)</li>
+  <li>📖 <b>Sobre Nós</b></li>
+  <li>🎯 <b>Serviços / Produtos</b></li>
+  <li>🎲 <b>Portfólio / Projetos</b></li>
+  <li>📩 <b>Contato</b></li>
+</ul>
 
-<p align="left">📔 Home (Página Inicial)<br>📚 Sobre Nós<br>🎯 Serviços / Produtos<br>🎲 Portfólio / Projetos<br>📲 Contato</p>
+---
 
-###
-
-<h2 align="left">Linguagens Utilizadas:</h2>
-
-###
+<h2 align="left">🛠️ Tecnologias Utilizadas:</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
 </div>
 
-###
+---
+
+<h2 align="left">📢 Status do Projeto:</h2>
+
+<p align="left">🔹 Em desenvolvimento 🚧<br>🔹 Melhorias e responsividade serão implementadas em versões futuras! 📱💻</p>
+
+---
+
+<h2 align="left">💡 Contribuição e Contato:</h2>
+
+<p align="left">Sinta-se à vontade para sugerir melhorias ou contribuir com o projeto! Caso tenha alguma dúvida ou feedback, entre em contato:</p>
+
+📧 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)<br>
+🔗 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+
+---
+
+⭐ Se gostou do projeto, deixe uma estrela no repositório! Obrigado pela visita! 😊
