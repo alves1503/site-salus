@@ -40,9 +40,6 @@
 
 <p align="left">Sinta-se à vontade para sugerir melhorias ou contribuir com o projeto! Caso tenha alguma dúvida ou feedback, entre em contato:</p>
 
-📧 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)<br>
-🔗 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
-
 ---
 
 ⭐ Se gostou do projeto, deixe uma estrela no repositório! Obrigado pela visita! 😊
